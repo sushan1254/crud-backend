@@ -54,3 +54,6 @@ exports.deleteProduct =(req,res)=>{
 
     })
 }
+exports.Main =(req,res)=>{
+    console.log('main')
+}
